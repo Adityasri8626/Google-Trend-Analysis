@@ -42,7 +42,20 @@ This project bridges that gap by creating a **Google Trends Dashboard in Power B
    - Added slicers (Country with flags, Keyword, Date, Category).  
    - Used dynamic titles and parameters for real-time filtering.  
    - Navigation buttons between pages + clickable external URLs.  
-   - Custom backgrounds, gradients, and professional theme for aesthetics.  
+   - Custom backgrounds, gradients, and professional theme for aesthetics.
+
+---
+
+## 🖼️ Project Workflow  
+
+![Project Workflow](Images/P6.png)  
+  
+
+---
+
+
+
+
 
 ---
 
@@ -50,13 +63,11 @@ This project bridges that gap by creating a **Google Trends Dashboard in Power B
 *(Add your screenshots here)*  
 
 - **Overview Page**  
-  ![Overview Page](images/overview.png)  
-
-- **Keyword Trends**  
-  ![Keyword Trends](images/keyword_trends.png)  
-
-- **Top & Rising Keywords**  
-  ![Rising Keywords](images/rising_keywords.png)  
+  ![Power BI Dashboard 1](Images/P1.png)
+  ![Power BI Dashboard 1](Images/P2.png)
+  ![Power BI Dashboard 1](Images/P3.png)
+  ![Power BI Dashboard 1](Images/P4.png)
+  ![Power BI Dashboard 1](Images/P5.png)       
 
 ---
 
