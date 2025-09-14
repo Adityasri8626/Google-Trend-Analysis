@@ -60,7 +60,6 @@ This project bridges that gap by creating a **Google Trends Dashboard in Power B
 ---
 
 ## 📊 Dashboard Preview
-*(Add your screenshots here)*  
 
 - **Overview Page**  
   ![Power BI Dashboard 1](Images/P1.png)
@@ -107,8 +106,6 @@ This project bridges that gap by creating a **Google Trends Dashboard in Power B
 
 ## 👤 Author
 **Aditya Srivastava**  
-- 🎓 Student at Lovely Professional University  
-- 💼 Data Analyst & Dashboard Enthusiast  
 - 🌐 [LinkedIn](https://linkedin.com/in/adityasri8626) | [GitHub](https://github.com/Adityasri8626)  
 
 ---
