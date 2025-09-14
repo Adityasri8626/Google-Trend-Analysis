@@ -1,4 +1,4 @@
-# 📊 Google Trends Analysis Dashboard (Power BI)
+# 📊 Google Trends Analysis Dashboard
 
 ## 🧩 Problem Statement
 Understanding how search interest evolves over time is crucial for businesses, researchers, and marketers. Google Trends provides valuable data, but it is not readily available in a dashboard format that supports dynamic filtering, country-wise analysis, and in-depth keyword exploration.  
